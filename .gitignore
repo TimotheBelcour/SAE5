@@ -1,0 +1,20 @@
+# Supports de cours et consignes des enseignants (non publiés sur le dépôt public)
+ressources/
+
+# Documents de travail des rendus (brouillons, non publiés)
+rendus/**/plan.md
+rendus/**/contenu.md
+rendus/**/schemas/
+
+# Fichiers temporaires Office / LibreOffice
+~$*
+.~lock.*#
+
+# Fichiers système
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Éditeurs
+.vscode/
+.idea/
