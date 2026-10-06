@@ -5,6 +5,7 @@ ressources/
 rendus/**/plan.md
 rendus/**/contenu.md
 rendus/**/schemas/
+rendus/**/*.pptx
 
 # Fichiers temporaires Office / LibreOffice
 ~$*
