@@ -10,6 +10,10 @@ rendus/**/*.xlsx
 rendus/**/*.docx
 rendus/outils/
 
+# Rendu 1 : seul le rapport en anglais (déjà rendu) est publié
+rendus/rendu1-analyse-comparative/*.pdf
+!rendus/rendu1-analyse-comparative/SAE5_Benchmark_Report_Belcour_Kaba.pdf
+
 # Fichiers temporaires Office / LibreOffice
 ~$*
 .~lock.*#
